@@ -18,6 +18,11 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "KantanCharts",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/89bd18db011b4bd19606db2e31020f13"
 		}
 	]
 }
